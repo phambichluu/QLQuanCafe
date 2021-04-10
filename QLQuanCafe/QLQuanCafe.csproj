@@ -171,6 +171,7 @@
     <Compile Include="Models\HoaDonBan.cs" />
     <Compile Include="Models\KhachHang.cs" />
     <Compile Include="Models\Menu.cs" />
+    <Compile Include="Models\Ngay.cs" />
     <Compile Include="Models\NhanVien.cs" />
     <Compile Include="Models\NhapHang.cs" />
     <Compile Include="Models\QLDbContext.cs" />
